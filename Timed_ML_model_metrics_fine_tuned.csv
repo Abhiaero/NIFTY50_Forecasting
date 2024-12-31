@@ -1,0 +1,5 @@
+,MSE,RMSE,Best Params,Time (s)
+Random Forest,902329.0484556882,949.910021241848,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}",1.7239789962768555
+XGBoost,954399.5165486813,976.9337319126008,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.8}",0.07851099967956543
+GRU,240341.21913893335,490.2460801872192,,6.676953315734863
+LSTM,102431.1785851851,320.048712831633,,5.898566722869873
